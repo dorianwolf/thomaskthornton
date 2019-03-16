@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <section class="section column is-3 banner">
+    <figure class="image">
+      <img src="{{page['banner image']}}" alt="{{page.title}} banner">
+    </figure>
+    <div class="caption content has-text-right">
+      <p class="is-size-7">{{page['image credit']}}</p>
+    </div>
+  </section>
+
+  <section class="section column is-9">
+    <form action="#">
+      <input type="text">SUP
+      <input type="text">ANOTHER THING
+      <input type="button" value="SUBMIT">
+    </form>
+    {{content}}
+  </section>
+</div>
