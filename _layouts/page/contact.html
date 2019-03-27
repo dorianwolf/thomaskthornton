@@ -13,11 +13,15 @@ layout: default
   </section>
 
   <section class="section column is-9">
-    <form action="#">
-      <input type="text">SUP
-      <input type="text">ANOTHER THING
-      <input type="button" value="SUBMIT">
-    </form>
     {{content}}
+    <form action="#" method="post" class="form">
+      <label for="first-name">{{page['contact form']['first name']}}</label>
+      <input type="text" class="input">
+      <label for="last-name">{{page['contact form']['last name']}}</label>
+      <input type="text" class="input">
+      <label for="email">{{page['contact form']['email']}}</label>
+      <input type="email" class="input">
+      <input type="button" value="SUBMIT" class="button">
+    </form>
   </section>
 </div>

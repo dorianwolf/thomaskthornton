@@ -3,7 +3,7 @@ title: About Me
 permalink: '/about'
 layout: page/half-image
 language: english
-translated page: about
+translated page: Über Mich
 banner image: '/assets/img/about-banner.jpg'
 image credit: Art by Phil Haddock
 ---

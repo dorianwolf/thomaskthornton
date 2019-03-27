@@ -1,7 +1,7 @@
 ---
 title: Contact
 permalink: '/contact'
-layout: page/half-image
+layout: page/contact
 language: english
 translated page: contact
 banner image: '/assets/img/contact-banner.jpg'
