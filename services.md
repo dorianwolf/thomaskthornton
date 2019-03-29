@@ -1,9 +1,9 @@
 ---
 title: Language Services
-permalink: '/about'
+permalink: '/services'
 layout: page/three-image
 language: english
-translated page: Leistungen
+page ref: services
 first image: '/assets/img/about-banner.jpg'
 first image credit: Art by Phil Haddock
 second image: '/assets/img/about-banner.jpg'

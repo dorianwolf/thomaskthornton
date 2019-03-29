@@ -1,11 +1,31 @@
 title: Thomas Thornton
-email: your-email@example.com
+email: thomas.thornton@aikq.com
+phone:
+  english: '0049-157-3812-3118'
+  deutsch: '0049 157 38 12 31 18'
 description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: "https://www.thomaskthornton.com"
 logo: "//static1.squarespace.com/static/5c264782b98a78cc6a16d1fb/t/5c5af35f7817f7f9516681bb/1550511043313"
+language directories:
+  english: '/'
+  deutsch: '/de/'
+top navigation:
+  english: 
+    - title: Home
+    - title: About Me
+    - title: Language Services
+      sub navigation: 
+      - title: Language Services
+      - title: Language Services
+    - title: Contact
+  deutsch:
+    - title: Startseite
+    - title: Über mich
+    - title: Kontakt
+  
 
 # Build settings
 markdown: kramdown
@@ -13,22 +33,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-
-
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: ''
+      type: pages
+    values:
+      meta title: 
+      meta description: 
+      language: 
+      page ref: 

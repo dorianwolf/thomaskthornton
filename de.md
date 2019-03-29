@@ -3,7 +3,7 @@ title: Startseite
 permalink: '/de'
 layout: page/full-image
 language: deutsch
-translated page: Home
+page ref: home
 banner image: '/assets/img/home-banner.jpg'
 image credit: Kunst von Phil Haddock
 ---

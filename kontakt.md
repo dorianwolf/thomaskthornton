@@ -1,9 +1,9 @@
 ---
 title: Kontakt
-permalink: '/de/contact'
+permalink: '/de/kontakt'
 layout: page/contact
 language: deutsch
-translated page: contact
+page ref: contact
 banner image: '/assets/img/contact-banner.jpg'
 image credit: Kunst von Phil Haddock
 contact form:

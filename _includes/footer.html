@@ -1,9 +1,8 @@
 <footer class="footer has-text-white">
-  <div class="content has-text-centered">
-    <p>LANGUAGE SELECTOR</p>
-  </div>
+  {% include footer-injection.html %}
+  {% include language-selector.html %}
   <div class="content has-text-right">
-    <p>EMAIL<br>PHONE</p>
+    <p>{{site.email | uppercase}}<br>{{site.phone[page.language]}}</p>
     <p>© 2019 THOMAS THORNTON</p>
   </div>
 </footer>

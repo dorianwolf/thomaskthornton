@@ -3,7 +3,7 @@ title: Über mich
 permalink: '/de/uber'
 layout: page/half-image
 language: deutsch
-translated page: About Me
+page ref: about
 banner image: '/assets/img/about-banner.jpg'
 image credit: Kunst von Phil Haddock
 ---

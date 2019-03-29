@@ -1,6 +1,6 @@
 <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="{{site['language directories'][page.language] | relative_url}}">
       <img src="{{site.logo}}" width="200">
     </a>
 
@@ -13,35 +13,32 @@
 
   <div class="navbar-menu">
     <div class="navbar-end">
-      <a class="navbar-item">
-        Home
-      </a>
+      {% for navigation_page in site['top navigation'][page.language] %}
+        {% unless navigation_page['sub navigation'] %}
+          {% assign the_page = site.pages | where: 'title', navigation_page.title | first %}
+          <a href="{{the_page.permalink | relative_url}}" class="navbar-item {% if page.title == the_page.title %} active{% endif %}">
+            {{the_page.title}}
+          </a>
+        {% else %}
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            {{navigation_page.title}}
+          </a>
 
-      <a class="navbar-item">
-        Documentation
-      </a>
-
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          More
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item">
-            About
-          </a>
-          <a class="navbar-item">
-            Jobs
-          </a>
-          <a class="navbar-item">
-            Contact
-          </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
-          </a>
+          <div class="navbar-dropdown">
+            {% for subnavigation_page in navigation_page['sub navigation'] %}
+              {% assign the_page = site.pages | where: 'title', subnavigation_page.title | first %}
+              <a href="{{the_page.permalink | relative_url}}" class="navbar-item{% if page.title == the_page.title %} active{% endif %}">
+                {{the_page.title}}
+              </a>
+            {% endfor %}
+          </div>
         </div>
-      </div>
+          
+        {% endunless %}
+      {% endfor %}
+
     </div>
   </div>
 </nav>
