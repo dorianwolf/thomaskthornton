@@ -2,16 +2,75 @@ body {
   color: $grey_dark;
 }
 
+main.container {
+  margin-top: 3rem;
+}
+
+img {
+  object-fit: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $family-secondary;
+  font-weight: bold;
+}
+
 h1 {
   color: $black-bis;
   display: inline-block;
   margin-bottom: 0.5rem;
-  border-bottom: 2px solid $secondary;
+  border-bottom: 3px solid $secondary;
 }
 
 p {
   margin-top: 0.3rem;
   margin-bottom: 1rem;
+}
+
+a {
+  color: $primary;
+  border-bottom: 1px solid $primary;
+  
+  &:hover {
+    color: $secondary;
+    border-bottom-color: $secondary;
+  }
+}
+
+section {
+  padding: 3rem 1.2rem;
+}
+
+blockquote {
+  background-color: #f5f5f5;
+  border-left: solid 2px #3916e5;
+  padding: 1rem 2rem;
+}
+
+.title {
+  font-size: 2.8rem;
+}
+
+// navbar
+
+.navbar {
+  box-shadow: 0 0 1rem $grey_dark;
+}
+
+.navbar-item {
+  
+  padding: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.13rem;
+  border-bottom: none;
+  
+  img {
+    max-height: 2.5rem;
+  }
+}
+
+a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:hover, .navbar-link.is-active {
+  color: $secondary;          
 }
 
 // sticky footer
@@ -30,9 +89,46 @@ body > main {
 
 .navbar {
   background: $primary;
+  text-transform: uppercase;
+  font-family: $family-secondary;
+  font-size: 0.8rem;
+  letter-spacing: 0.03rem;
+  font-weight: 400;
+}
 
-  .navbar-dropdown .navbar-item {
-    color: red;
+// footer
+
+footer {
+  font-family: $family-secondary;
+  font-size: $size-small;
+  letter-spacing: 0.05rem;
+}
+
+#languageSelector {
+  
+  a {
+    font-size: $size-xs;
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    margin: 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid $grey_light;
+    
+    &:hover {
+      color: $secondary;
+      border-bottom-color: $secondary;
+    }
+  }
+}
+
+.footer {
+  a {
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  &__contact-info {
+    border-bottom: 1px solid white;
   }
 }
 
@@ -42,7 +138,11 @@ body > main {
   margin-top: 1rem;
 }
 
-.footer a {
-  color: white;
-  text-transform: uppercase;
+
+
+// full image banner page
+
+.image.full-banner {
+  object-position: 50% 7%;
 }
+

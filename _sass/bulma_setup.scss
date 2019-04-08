@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700');
+
+$family-sans-serif: "Open Sans";
+$family-secondary: "Montserrat";
+
 $blue: #3916e5;
 $red: #e52816;
 $white: #fff;
@@ -8,3 +13,7 @@ $secondary: $red;
 $navbar-item-color: $white;
 
 $footer-background-color: $primary;
+
+$size-xs: 0.7rem;
+
+$section-padding: 1.5rem 1rem;

@@ -14,14 +14,32 @@ layout: default
 
   <section class="section column is-9">
     {{content}}
-    <form action="#" method="post" class="form">
-      <label for="first-name">{{page['contact form']['first name']}}</label>
-      <input type="text" class="input">
-      <label for="last-name">{{page['contact form']['last name']}}</label>
-      <input type="text" class="input">
-      <label for="email">{{page['contact form']['email']}}</label>
-      <input type="email" class="input">
-      <input type="button" value="SUBMIT" class="button">
+    <form action="https://formspree.io/dorian.wolf@gmail.com" method="POST" class="form"/>
+      <div class="field">
+        <label for="first-name" class="label">{{page['contact form']['first name']}}</label>
+        <div class="control">
+          <input type="text" class="input" name="{{page['contact form']['first name']}}" required>
+        </div>
+      </div>
+      <div class="field">
+        <label for="last-name" class="label">{{page['contact form']['last name']}}</label>
+        <div class="control">
+          <input type="text" class="input" name="{{page['contact form']['last name']}}" required>
+        </div>
+      </div>
+      <div class="field">
+        <label for="email" class="label">{{page['contact form']['email']}}</label>
+        <div class="control">
+          <input class="input" type="email" name="{{page['contact form']['email']}}" required>
+        </div>
+      </div>
+      <div class="field">
+        <label for="message" class="label">{{page['contact form']['message']}}</label>
+        <div class="control">
+          <textarea type="message" class="textarea" name="{{page['contact form']['message']}}"></textarea>
+        </div>
+      </div>
+      <input type="submit" value="{{page['contact form']['submit']}}" class="button">
     </form>
   </section>
 </div>
