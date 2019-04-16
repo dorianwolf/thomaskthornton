@@ -1,0 +1,7 @@
+---
+exclude from sitemap: true
+---
+
+User-Agent: *
+Disallow:
+Sitemap: {{site.url}}/sitemap.xml

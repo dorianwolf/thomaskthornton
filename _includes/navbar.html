@@ -4,14 +4,14 @@
       <img src="{{site.logo}}">
     </a>
 
-    <a role="button" class="navbar-burger burger is-active" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="mainNav">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
   </div>
 
-  <div class="navbar-menu">
+  <div class="navbar-menu" id="mainNav">
     <div class="navbar-end">
       {% for navigation_page in site['top navigation'][page.language] %}
         {% unless navigation_page['sub navigation'] %}
