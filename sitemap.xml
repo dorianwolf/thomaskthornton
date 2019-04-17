@@ -1,0 +1,24 @@
+---
+exclude from sitemap: true
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	{% for page in site.pages %}
+		{% unless page['exclude from sitemap'] or page.url contains ".xml" or page.url contains ".json" or page.url contains ".css" %}
+			<url>
+				<loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+				<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+
+				{% assign english_page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'english' | first %}
+				{% assign german_page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'deutsch' | first %}
+
+					{% if english_page and german_page %}
+            <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}{{ english_page.url | remove: "index.html" }}" />
+            <xhtml:link rel="alternate" hreflang="de" href="{{ site.url }}{{ german_page.url | remove: "index.html" }}" />
+          {% endif %}
+			</url>
+		{% endunless %}
+	{% endfor %}
+
+</urlset>
