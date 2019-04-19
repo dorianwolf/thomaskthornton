@@ -1,10 +1,10 @@
 ---
 title: Contact
-permalink: '/contact'
+permalink: "/contact"
 layout: page/contact
 language: english
 page ref: contact
-banner image: '/assets/img/contact-banner.jpg'
+banner image: "/assets/img/contact-banner.jpg"
 image credit: Photo by Garth Pratt
 contact form:
   name: Name *

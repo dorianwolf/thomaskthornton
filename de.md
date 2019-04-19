@@ -1,10 +1,10 @@
 ---
 title: Startseite
-permalink: '/de'
+permalink: "/de"
 layout: page/full-image
 language: deutsch
 page ref: home
-banner image: '/assets/img/home-banner.jpg'
+banner image: "/assets/img/home-banner.jpg"
 image credit: Kunst von Phil Haddock
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Language Services
-permalink: '/services'
+permalink: "/services"
 layout: page/three-image
 language: english
 page ref: services
 banner images:
-- image: '/assets/img/janko-ferlic.jpg'
+- image: "/assets/img/janko-ferlic.jpg"
   image credit: Photo by Janko Ferlic
-- image: '/assets/img/reza-rostampisheh.jpg'
+- image: "/assets/img/reza-rostampisheh.jpg"
   image credit: Photo by Reza Rostampisheh
-- image: '/assets/img/kevin-laminto.jpg'
+- image: "/assets/img/kevin-laminto.jpg"
   image credit: Photo by Kevin Laminto
 ---
 

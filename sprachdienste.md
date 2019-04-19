@@ -1,15 +1,15 @@
 ---
 title: Sprachdienste
-permalink: 'de/sprachdienste'
+permalink: de/sprachdienste
 layout: page/three-image
 language: deutsch
 page ref: services
 banner images:
-- image: '/assets/img/janko-ferlic.jpg'
+- image: "/assets/img/janko-ferlic.jpg"
   image credit: Bild von Janko Ferlic
-- image: '/assets/img/reza-rostampisheh.jpg'
+- image: "/assets/img/reza-rostampisheh.jpg"
   image credit: Bild von Reza Rostampisheh
-- image: '/assets/img/kevin-laminto.jpg'
+- image: "/assets/img/kevin-laminto.jpg"
   image credit: Bild von Kevin Laminto
 ---
 

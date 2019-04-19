@@ -1,16 +1,21 @@
 ---
 title: Über Mich
-permalink: '/de/berufliche-stationen'
+permalink: "/de/berufliche-stationen"
 layout: page/half-image
 language: deutsch
 page ref: about
-banner image: '/assets/img/about-banner.jpg'
+banner image: "/assets/img/about-banner.jpg"
 image credit: Kunst von Phil Haddock
-text beside image: 
+text beside image:
   title: Berufliche Stationen
-  paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br. promovierte ich in deutscher Literatur an der University of California, Santa Barbara und war anschließend Juniorprofessor an der Columbia University und am Hunter College in New York. Später wechselte ich ins Verlagswesen als Lektor und Verlagsleiter (Suhrkamp Publishers New York, Fromm International) und nahm dann auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
+  paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br.
+    promovierte ich in deutscher Literatur an der University of California, Santa
+    Barbara und war anschließend Juniorprofessor an der Columbia University und am
+    Hunter College in New York. Später wechselte ich ins Verlagswesen als Lektor und
+    Verlagsleiter (Suhrkamp Publishers New York, Fromm International) und nahm dann
+    auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
   button text: Kontakt
-  button link: /de/kontakt
+  button link: "/de/kontakt"
 ---
 
 ## Kleine Auswahl von Veröffentlichungen, einschließlich Übersetzungen

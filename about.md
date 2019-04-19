@@ -1,16 +1,22 @@
 ---
 title: About Me
-permalink: '/about'
+permalink: "/about"
 layout: page/half-image
 language: english
 page ref: about
-banner image: '/assets/img/about-banner.jpg'
+banner image: "/assets/img/about-banner.jpg"
 image credit: Art by Phil Haddock
-text beside image: 
+text beside image:
   title: CAREER STAGES
-  paragraph: After majoring in German Literature and History at the University of Freiburg in Germany I earned a Ph.D. in German Language and Literature from the University of California, Santa Barbara and subsequently was Assistant Professor at Columbia University and Hunter College in New York. Later I changed careers to work in book publishing as executive editor (Suhrkamp Publishers New York, Fromm International) and also worked as a translator and writer. I have been a freelancer since 2005.
+  paragraph: After majoring in German Literature and History at the University of
+    Freiburg in Germany I earned a Ph.D. in German Language and Literature from the
+    University of California, Santa Barbara and subsequently was Assistant Professor
+    at Columbia University and Hunter College in New York. Later I changed careers
+    to work in book publishing as executive editor (Suhrkamp Publishers New York,
+    Fromm International) and also worked as a translator and writer. I have been a
+    freelancer since 2005.
   button text: Contact Me
-  button link: /contact
+  button link: "/contact"
 ---
 
 ## Small Selection of Publications, Including Translations
