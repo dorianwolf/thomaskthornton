@@ -1,10 +1,10 @@
 ---
 title: Home
-permalink: '/'
+permalink: "/"
 layout: page/full-image
 language: english
 page ref: home
-banner image: '/assets/img/home-banner.jpg'
+banner image: "/assets/img/home-banner.jpg"
 image credit: Art by Phil Haddock
 ---
 
