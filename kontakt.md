@@ -5,11 +5,12 @@ layout: page/contact
 language: deutsch
 page ref: contact
 banner image: '/assets/img/contact-banner.jpg'
-image credit: Kunst von Phil Haddock
+image credit: Bild von Garth Pratt
 contact form:
-  first name: Vorname*
-  last name: Nachname*
-  email: E-mail Addresse*
+  name: Name *
+  first name: Vorname
+  last name: Nachname
+  email: E-mail Addresse *
   message: Nachricht
   submit: Senden
 ---

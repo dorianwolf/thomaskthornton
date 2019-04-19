@@ -1,23 +1,20 @@
 ---
-title: Über mich
-permalink: '/de/uber'
+title: Über Mich
+permalink: '/de/berufliche-stationen'
 layout: page/half-image
 language: deutsch
 page ref: about
 banner image: '/assets/img/about-banner.jpg'
 image credit: Kunst von Phil Haddock
+text beside image: 
+  title: Berufliche Stationen
+  paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br. promovierte ich in deutscher Literatur an der University of California, Santa Barbara und war anschließend Juniorprofessor an der Columbia University und am Hunter College in New York. Später wechselte ich ins Verlagswesen als Lektor und Verlagsleiter (Suhrkamp Publishers New York, Fromm International) und nahm dann auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
+  button text: Kontakt
+  button link: /de/kontakt
 ---
 
-# Über Mich
-{: .title}
-
-## BERUFLICHE STATIONEN
-{: .h2}
-
-Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br. promovierte ich in deutscher Literatur an der University of California, Santa Barbara und war anschließend Juniorprofessor an der Columbia University und am Hunter College in New York. Später wechselte ich ins Verlagswesen als Lektor und Verlagsleiter (Suhrkamp Publishers New York, Fromm International) und nahm dann auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
-
 ## Kleine Auswahl von Veröffentlichungen, einschließlich Übersetzungen
-{: .h2}
+{: .has-text-centered}
 
 ### Bücher (Englisch)
 {: .h3}
@@ -46,8 +43,10 @@ Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br. promoviert
 
 * Earl Derr Biggers. Sieben Schlüssel fürs Baldpate Inn (Thoth Publications Berlin).
 * Barbara Bloom (Hg.), Ghostwriter/Und wenn sie nicht gestorben sind... (DAAD).
-* Artikel (Deutsch)
-* Hälfte des Lebens (aus dem Zusammenhang gerissen). Nahtstelle zum Übersetzen als Metapher. In: Ursula Mahlendorf, Laurence * Rickels (Hg.), Poetry Poetics Translations (Königshausen & Neumann).
+
+### Artikel (Deutsch)
+
+* Hälfte des Lebens (aus dem Zusammenhang gerissen). Nahtstelle zum Übersetzen als Metapher. In: Ursula Mahlendorf, Laurence Rickels (Hg.), Poetry Poetics Translations (Königshausen & Neumann).
 * Michael J. Alexander. Shakespeare, William (1564–1616). In: Theologische Realenzyklopädie [TRE] (Walter de Gruyter), Bd. 31.
 * Michael Banner. Sexualität: Kirchengeschichtlich und ethisch. In: TRE, Bd. 31.
 * Hans Belting. Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone. In: Cai Werntgen (Hg.), Szenen des * Heiligen (Verlag der Weltreligionen).

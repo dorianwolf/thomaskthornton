@@ -1,8 +1,8 @@
 title: Thomas Thornton
-email: thomas.thornton@aikq.com
+email: ThomasKThornton@aol.com
 phone:
   english: '0049-157-3812-3118'
-  deutsch: '0049 157 38 12 31 18'
+  deutsch: 'Mobil: 0049 157 38 12 31 18'
 description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -20,8 +20,8 @@ top navigation:
     - title: Contact
   deutsch:
     - title: Startseite
-    - title: Über mich
-    - title: Language Services    
+    - title: Über Mich
+    - title: Sprachdienste 
     - title: Kontakt
   
 
