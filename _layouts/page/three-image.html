@@ -5,7 +5,7 @@ layout: default
 <section class="section banner columns">
   <div class="column">
     <figure class="image is-16by9">
-      <img src="{{page['banner images'][0]['image']}}" alt="{{page.title}} banner">
+      <img src="{{page['banner images'][0]['image'] | relative_url}}" alt="{{page.title}} banner">
     </figure>
     <div class="caption content has-text-right">
       <p class="is-size-7">{{page['banner images'][0]['image credit']}}</p>
@@ -13,7 +13,7 @@ layout: default
   </div>
   <div class="column">
     <figure class="image is-16by9">
-      <img src="{{page['banner images'][1]['image']}}" alt="{{page.title}} banner">
+      <img src="{{page['banner images'][1]['image'] | relative_url}}" alt="{{page.title}} banner">
     </figure>
     <div class="caption content has-text-right">
       <p class="is-size-7">{{page['banner images'][1]['image credit']}}</p>
@@ -21,7 +21,7 @@ layout: default
   </div>
   <div class="column">
     <figure class="image is-16by9">
-      <img src="{{page['banner images'][2]['image']}}" alt="{{page.title}} banner">
+      <img src="{{page['banner images'][2]['image'] | relative_url}}" alt="{{page.title}} banner">
     </figure>
     <div class="caption content has-text-right">
       <p class="is-size-7">{{page['banner images'][2]['image credit']}}</p>

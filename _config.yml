@@ -8,7 +8,7 @@ description: >-
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: "https://www.thomaskthornton.com"
-logo: "//static1.squarespace.com/static/5c264782b98a78cc6a16d1fb/t/5c5af35f7817f7f9516681bb/1550511043313"
+logo: "/assets/img/tt-logo.png"
 language directories:
   english: '/'
   deutsch: '/de/'
@@ -19,14 +19,12 @@ top navigation:
     - title: Language Services
       # sub navigation:
       # - title: Language Services
-      # - title: Language Services
     - title: Contact
   deutsch:
     - title: Startseite
     - title: Über Mich
     - title: Sprachdienste
       # sub navigation:
-      # - title: Sprachdienste
       # - title: Sprachdienste
     - title: Kontakt
   

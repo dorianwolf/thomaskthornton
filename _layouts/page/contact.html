@@ -5,7 +5,7 @@ layout: default
 <div class="columns">
   <section class="section column is-4 banner">
     <figure class="image">
-      <img src="{{page['banner image']}}" alt="{{page.title}} banner">
+      <img src="{{page['banner image'] | relative_url}}" alt="{{page.title}} banner">
     </figure>
     <div class="caption content has-text-right">
       <p class="is-size-7">{{page['image credit']}}</p>
