@@ -110,6 +110,10 @@ ul {
   font-weight: 400;
 }
 
+.navbar-dropdown {
+  background: $primary;
+}
+
 .navbar-item {
   
   padding: 1rem;
@@ -122,7 +126,11 @@ ul {
   }
 }
 
-a.navbar-item:hover, a.navbar-item.active, .navbar-link:hover, .navbar-link.active {
+a.navbar-item:hover,
+a.navbar-item.active,
+.navbar-link:hover,
+.navbar-link.active,
+.navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
   color: $secondary;          
 }
 

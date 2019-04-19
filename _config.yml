@@ -17,11 +17,17 @@ top navigation:
     - title: Home
     - title: About Me
     - title: Language Services
+      # sub navigation:
+      # - title: Language Services
+      # - title: Language Services
     - title: Contact
   deutsch:
     - title: Startseite
     - title: Über Mich
-    - title: Sprachdienste 
+    - title: Sprachdienste
+      # sub navigation:
+      # - title: Sprachdienste
+      # - title: Sprachdienste
     - title: Kontakt
   
 

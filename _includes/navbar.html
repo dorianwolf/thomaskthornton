@@ -22,9 +22,9 @@
         {% else %}
         
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
+          <div class="navbar-link is-arrowless">
             {{navigation_page.title}}
-          </a>
+          </div>
 
           <div class="navbar-dropdown">
             {% for subnavigation_page in navigation_page['sub navigation'] %}
