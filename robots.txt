@@ -1,7 +1,3 @@
----
-exclude from sitemap: true
----
-
 User-Agent: *
 Disallow:
-Sitemap: {{site.url}}/sitemap.xml
+Sitemap: https://www.thomaskthornton.com/sitemap.xml

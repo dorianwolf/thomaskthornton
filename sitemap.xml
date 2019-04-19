@@ -1,24 +1,157 @@
----
-exclude from sitemap: true
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-	{% for page in site.pages %}
-		{% unless page['exclude from sitemap'] or page.url contains ".xml" or page.url contains ".json" or page.url contains ".css" %}
+	
+		
 			<url>
-				<loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-				<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+				<loc>https://www.thomaskthornton.com/404.html</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
 
-				{% assign english_page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'english' | first %}
-				{% assign german_page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'deutsch' | first %}
+				
+				
 
-					{% if english_page and german_page %}
-            <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}{{ english_page.url | remove: "index.html" }}" />
-            <xhtml:link rel="alternate" hreflang="de" href="{{ site.url }}{{ german_page.url | remove: "index.html" }}" />
-          {% endif %}
+					
 			</url>
-		{% endunless %}
-	{% endfor %}
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/404.html</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/about</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/about" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/berufliche-stationen" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/de/berufliche-stationen</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/about" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/berufliche-stationen" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/contact</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/contact" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/kontakt" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/de</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/de/kontakt</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/contact" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/kontakt" />
+          
+			</url>
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/services</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/services" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/sprachdienste" />
+          
+			</url>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<url>
+				<loc>https://www.thomaskthornton.com/de/sprachdienste</loc>
+				<lastmod>2019-04-19T21:06:03+00:00</lastmod>
+
+				
+				
+
+					
+            <xhtml:link rel="alternate" hreflang="en" href="https://www.thomaskthornton.com/services" />
+            <xhtml:link rel="alternate" hreflang="de" href="https://www.thomaskthornton.com/de/sprachdienste" />
+          
+			</url>
+		
+	
+		
+	
 
 </urlset>

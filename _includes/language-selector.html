@@ -1,6 +1,0 @@
-{% assign en-page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'english' | first %}
-{% assign de-page = site.pages | where: 'page ref', page['page ref'] | where: 'language', 'deutsch' | first %}
-<div id="languageSelector" class="content has-text-centered">
-  <a href="{{de-page.url | relative_url}}" class="language-deutsch">DEUTSCH</a>
-  <a href="{{en-page.url | relative_url}}" class="language-english">ENGLISH</a>
-</div>
