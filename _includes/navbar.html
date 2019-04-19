@@ -1,6 +1,6 @@
 <nav class="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="{{site['language directories'][page.language] | relative_url}}">
+    <a class="navbar-item" href="{{site['language directories'][page.language] | relative_url | default: '/'}}">
       <img src="{{site.logo | relative_url}}">
     </a>
 
