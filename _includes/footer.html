@@ -1,0 +1,12 @@
+<footer class="footer has-text-white">
+  {% include footer-injection.html %}
+  {% include language-selector.html %}
+  <div class="content has-text-right">
+    <span class="footer__contact-info">
+      <p>{{site.email | uppercase}}<br>{{site.phone[page.language]}}</p>
+    </span>
+    <span class="footer__copyright">
+      <p>© 2019 THOMAS THORNTON</p>
+    </span>
+  </div>
+</footer>
