@@ -1,34 +1,34 @@
 ---
-title: About Me
-permalink: "/about"
-language: english
+title: Über Mich
+permalink: "/de/berufliche-stationen"
+layout: page/half-image
+language: deutsch
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
-image credit: Art by Phil Haddock
+image credit: Kunst von Phil Haddock
 text beside image:
-  title: CAREER STAGES
-  paragraph: After majoring in German Literature and History at the University of
-    Freiburg in Germany I earned a Ph.D. in German Language and Literature from the
-    University of California, Santa Barbara and subsequently was Assistant Professor
-    at Columbia University and Hunter College in New York. Later I changed careers
-    to work in book publishing as executive editor (Suhrkamp Publishers New York,
-    Fromm International) and also worked as a translator and writer. I have been a
-    freelancer since 2005.
-  button text: Contact Me
-  button link: "/contact"
-layout: page/half-image
+  title: Berufliche Stationen
+  paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br.
+    promovierte ich in deutscher Literatur an der University of California, Santa
+    Barbara und war anschließend Juniorprofessor an der Columbia University und am
+    Hunter College in New York. Später wechselte ich ins Verlagswesen als Lektor und
+    Verlagsleiter (Suhrkamp Publishers New York, Fromm International) und nahm dann
+    auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
+  button text: Kontakt
+  button link: "/de/kontakt"
 ---
 
-## Small Selection of Publications, Including Translations
+## Kleine Auswahl von Veröffentlichungen, einschließlich Übersetzungen
 {: .has-text-centered}
 
-### Books (English)
+### Bücher (Englisch)
+{: .h3}
 
 * *A Time to Live: The Life and Writings of Erich Maria Remarque* (Fales Library / New York University Press).
 * The Munich Show – Mineralientage München. *Theme Book: From Mine to Mine* (Wachholtz Verlag GmbH).
 * Martin Lohmann, Dirk Schmücker, Ulf Sonntag. *German Holiday Travel 2025: Development of Holiday Travel Demand in the German Source Market—The RA Trend Analysis* (Kiel: Forschungsgemeinschaft Urlaub und Reisen).
 * Claudia Kemfert. *The Battle about Electricity: Myths, Power and Monopolies* (Murmann Verlag).
-* Volkmar Kreisel, Michael Weber. *Laser Acupuncture* (with Chris Stephenson; Füchtenbusch Verlag).
+* Volkmar Kreisel, Michael Weber. *Laser Acupuncture* (mit Chris Stephenson; Füchtenbusch Verlag).
 * Ulrich Sinn. *Olympia: Cult, Sport, and Ancient Festival* (Markus Wiener Publishers).
 * Werner Meyer-Larsen. *Germany, Inc.: The New German Juggernaut and Its Challenge to World Business* (John Wiley & Sons).
 * Stefan Emmerich. *Marco Polo – Gran Canaria* (Gaia Text / Mairs).
@@ -36,20 +36,20 @@ layout: page/half-image
 * Brigitte Hamann. *Hitler’s Vienna* (Oxford University Press).
 * Hans-Dietrich Genscher. *Rebuilding a House Divided* (Broadway Books / Bantam Doubleday Dell).
 
-### Articles (Englisch)
+### Artikel (Englisch)
 
-* 2009–2016: concert reviews, articles, and interviews for [MusicWeb International](www.musicweb-international.com/sandh).
-* “Aharon Appelfeld.” In: *Bomb*, Summer 1998.
-* “Publisher’s Note.” In: Ashkan Sahihi, *Pictures and Their Stories* (Fromm International).
-* “Program Notes.” In: *Stagebill* (Kol Simcha) (Carnegie Hall).
-* Numerous articles in the *Children’s Rights Council New York City Newsletter* (1998–1999).
+* 2009–2016: Konzertrezensionen, Artikel und Interviews für (MusicWeb International)[www.musicweb-international.com/sandh].
+* Aharon Appelfeld. In: *Bomb*, Sommer 1998.
+* Publisher’s Note. In: Ashkan Sahihi, *Pictures and Their Stories* (Fromm International).
+* Program Notes. In: *Stagebill* (Kol Simcha) (Carnegie Hall).
+* Zahlreiche Artikel in *Children’s Rights Council New York City Newsletter* (1998-99).
 
-### Books (German)
+### Bücher (Deutsch)
 
-* Earl Derr Biggers, *Sieben Schlüssel fürs Baldpate Inn* (Thoth Publications Berlin).
-* Barbara Bloom (ed.), *Ghostwriter / Und wenn sie nicht gestorben sind...* (DAAD).
+* Earl Derr Biggers. *Sieben Schlüssel fürs Baldpate Inn* (Thoth Publications Berlin).
+* Barbara Bloom (Hg.), *Ghostwriter/Und wenn sie nicht gestorben sind...* (DAAD).
 
-### Articles (German)
+### Artikel (Deutsch)
 
 * “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher.” In: Ursula Mahlendorf,
 Lurence Rickels (eds.), *Poetry Poetics Translations* (Königshausen & Neumann).
