@@ -1,7 +1,6 @@
 ---
 title: Über Mich
 permalink: "/de/berufliche-stationen"
-layout: page/half-image
 language: deutsch
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
@@ -16,6 +15,7 @@ text beside image:
     auch eine Tätigkeit als Übersetzer und Publizist auf. Seit 2005 bin ich selbständig.
   button text: Kontakt
   button link: "/de/kontakt"
+layout: page/half-image
 ---
 
 ## Kleine Auswahl von Veröffentlichungen, einschließlich Übersetzungen
@@ -58,7 +58,7 @@ vl. 31.
 * Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch.” In: *TRE*, vol. 31.
 * Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone.” In: Cai Werntgen (Hg.), *Szenen des Heiligen* (Verlag der Weltreligionen).
 * Dr. Joseph Dan, “Scholem, Gershom Gerhard.” In: *TRE*, vol. 30.
-* Dr. Joseph Dan, “Sprache/Sprachwissenschaft/Sprachphilosophie: Judentum.” In: *TRE*, vol. 31.
+* Dr. Joseph Dan, “Sprache / Sprachwissenschaft / Sprachphilosophie: Judentum.” In: *TRE*, vol. 31.
 * Susan A. Davis, “Saguaro: A Radio Play,” in: Hannes Brunner, Susan A. Davis, *Pausenstück und Saguaro* (Vera Engelhorn
 Gllery).
 * Joshua Decter, “The Aesthetics of Obliteration.” In: *Tim White, Presence: Video Installations and Photographs* (Savva Art
