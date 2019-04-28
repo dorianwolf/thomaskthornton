@@ -13,9 +13,6 @@ banner images:
   image credit: Photo by Kevin Laminto
 ---
 
-# Services
-{: .title}
-
 My services cover the entire range of English-German linguistic services: translations and adaptations in either direction and translation checks, transcriptions in both languages, line-editing, copyediting, proofreading, copywriting, and simultaneous interpreting. Other translations include a book and articles from the Italian and the French.
 
 I possess extensive professional experience in all cultural areas as well as marketing, advertising, and sales. My translations cover not only virtually all literary genres, from fiction – including children’s books – to drama, screenplays, and poetry, but also catalogs of paintings, art history essays and wall texts, concert programs, and CD liner notes. In addition I have done many thousands of translations in such diverse areas as travel and tourism, HoReCa, architecture, alternative energies and ecology, as well as crystallography plus all industry and business branches and sectors.

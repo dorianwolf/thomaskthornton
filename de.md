@@ -4,12 +4,10 @@ permalink: "/de"
 layout: page/full-image
 language: deutsch
 page ref: home
+page title: Hallo! Hi! Ciao! Salut!
 banner image: "/assets/img/home-banner.jpg"
 image credit: Kunst von Phil Haddock
 ---
-
-# Hallo! Hi! Ciao! Salut!
-{: .title}
 
 Ihr verlässlicher Partner für Übersetzungen aus dem Englischen oder ins Englische sowie Lektorate – mit über 20 Jahren Erfahrung in allen Bereichen von Kunst und Kultur sowie nahezu sämtlichen Zweigen von Wirtschaft und Industrie.
 

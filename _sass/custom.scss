@@ -1,6 +1,7 @@
 body {
   color: $grey_dark;
   background-color: #f8f8f9;
+  word-break: normal;
 }
 
 main.container {
@@ -27,9 +28,12 @@ h2, h3 {
 }
 
 h1 {
+  margin-bottom: 1rem;
+  line-height: 3.8rem;
+}
+
+.title {
   color: $black-bis;
-  display: inline-block;
-  margin-bottom: 0.5rem;
   border-bottom: 3px solid $secondary;
 }
 

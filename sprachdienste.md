@@ -13,9 +13,6 @@ banner images:
 layout: page/three-image
 ---
 
-# Sprachdienste
-{: .title}
-
 Mein Leistungsangebot umfasst die gesamte Bandbreite englisch-deutscher Sprachdienste: Übersetzungen und Adaptionen in beide Richtungen und Übersetzungsprüfungen, Transkriptionen in beiden Sprachen, Redaktion, Lektorat, Korrektorat sowie Texten und Simultandolmetschen. Außerdem ein Buch sowie Artikel aus dem Italienischen und Französischen.
 
 Ich besitze ausgiebige Berufserfahrung in allen kulturellen Bereichen sowie Marketing, Werbung und Verkauf. Meine Übersetzungen umfassen nicht nur praktisch alle literarischen Genres, von Prosa – einschließlich Kinderbüchern – bis Drama, Drehbücher und Lyrik, sondern auch Gemäldekatalog- und Museumswandtexte, Konzertprogramme und CD-Begleithefte. Dazu kommen abertausende von Übersetzungen in so verschiedenen Gebieten wie Reisen und Tourismus, HoReCa, Architektur, alternative Energien und Ökologie, Kristallographie sowie alle Industrie- und Wirtschaftszweige und -sektoren.

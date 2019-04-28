@@ -14,6 +14,3 @@ contact form:
   message: Message
   submit: Submit
 ---
-
-# Contact me
-{: .title}
