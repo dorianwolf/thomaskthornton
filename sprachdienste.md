@@ -1,7 +1,6 @@
 ---
 title: Sprachdienste
 permalink: de/sprachdienste
-layout: page/three-image
 language: deutsch
 page ref: services
 banner images:
@@ -11,6 +10,7 @@ banner images:
   image credit: Bild von Reza Rostampisheh
 - image: "/assets/img/kevin-laminto.jpg"
   image credit: Bild von Kevin Laminto
+layout: page/three-image
 ---
 
 # Sprachdienste
@@ -31,7 +31,7 @@ Nähere Einzelheiten und Referenzen liefere ich gern auf Anfrage.
 Preise können variieren. Buch- sowie Drehbuchübersetzungen etwa kommen deutlich billiger, während die Arbeit an stark technischen Texten bzw. Texten, die nicht nur ein Korrektorat, sondern ein gründliches Lektorat benötigen, teurer ist. Die genannten Preise sind aber verlässliche Richtwerte.
 {: .is-size-7}
 
-**Übersetzungen/Transkriptionen/Redaktion/Werbetexte:**<br>EUR 1,35 pro Normzeile (55 Anschläge) der Vorlage
+**Übersetzungen / Transkriptionen / Redaktion / Werbetexte:**<br>EUR 1,35 pro Normzeile (55 Anschläge) der Vorlage
 EUR 48,- pro Stunde
 Mindestbetrag EUR 38,-
 
