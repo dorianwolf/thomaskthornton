@@ -1,5 +1,5 @@
 ---
-title: Über Mich
+title: Über mich
 permalink: "/de/berufliche-stationen"
 language: deutsch
 page ref: about
@@ -25,12 +25,12 @@ layout: page/half-image
 {: .h3}
 
 * *A Time to Live: The Life and Writings of Erich Maria Remarque* (Fales Library / New York University Press).
-* The Munich Show – Mineralientage München. *Theme Book: From Mine to Mine* (Wachholtz Verlag GmbH).
-* Martin Lohmann, Dirk Schmücker, Ulf Sonntag. *German Holiday Travel 2025: Development of Holiday Travel Demand in the German Source Market—The RA Trend Analysis* (Kiel: Forschungsgemeinschaft Urlaub und Reisen).
-* Claudia Kemfert. *The Battle about Electricity: Myths, Power and Monopolies* (Murmann Verlag).
+* The Munich Show – Mineralientage München. *Theme Book – From Mine to Mine* (Wachholtz Verlag GmbH).
+* Martin Lohmann, Dirk Schmücker, Ulf Sonntag. *German Holiday Travel 2025: Development of Holiday Travel Demand in the German Source Market – The RA Trend Analysis* (Kiel: Forschungsgemeinschaft Urlaub und Reisen).
+* Claudia Kemfert. *The Battle about Electricity – Myths, Power and Monopolies* (Murmann Verlag).
 * Volkmar Kreisel, Michael Weber. *Laser Acupuncture* (mit Chris Stephenson; Füchtenbusch Verlag).
-* Ulrich Sinn. *Olympia: Cult, Sport, and Ancient Festival* (Markus Wiener Publishers).
-* Werner Meyer-Larsen. *Germany, Inc.: The New German Juggernaut and Its Challenge to World Business* (John Wiley & Sons).
+* Ulrich Sinn. *Olympia – Cult, Sport, and Ancient Festival* (Markus Wiener Publishers).
+* Werner Meyer-Larsen. *Germany, Inc. – The New German Juggernaut and Its Challenge to World Business* (John Wiley & Sons).
 * Stefan Emmerich. *Marco Polo – Gran Canaria* (Gaia Text / Mairs).
 * Tilman Nagel. *The History of Islamic Theology* (Markus Wiener Publishers).
 * Brigitte Hamann. *Hitler’s Vienna* (Oxford University Press).
@@ -51,18 +51,17 @@ layout: page/half-image
 
 ### Artikel (Deutsch)
 
-* “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher.” In: Ursula Mahlendorf,
-Lurence Rickels (eds.), *Poetry Poetics Translations* (Königshausen & Neumann).
-* Michael J. Alexander, “Shakespeare, William (1564–1616).” In: *Theologische Realenzyklopädie* \[TRE\] (Walter de Gruyter),
-vl. 31.
-* Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch.” In: *TRE*, vol. 31.
-* Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone.” In: Cai Werntgen (Hg.), *Szenen des Heiligen* (Verlag der Weltreligionen).
-* Dr. Joseph Dan, “Scholem, Gershom Gerhard.” In: *TRE*, vol. 30.
-* Dr. Joseph Dan, “Sprache / Sprachwissenschaft / Sprachphilosophie: Judentum.” In: *TRE*, vol. 31.
-* Susan A. Davis, “Saguaro: A Radio Play,” in: Hannes Brunner, Susan A. Davis, *Pausenstück und Saguaro* (Vera Engelhorn
-Gllery).
-* Joshua Decter, “The Aesthetics of Obliteration.” In: *Tim White, Presence: Video Installations and Photographs* (Savva Art
+* “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher”. In: Ursula Mahlendorf,
+Lurence Rickels (Hg.), *Poetry Poetics Translations* (Königshausen & Neumann).
+* Michael J. Alexander, “Shakespeare, William (1564–1616)”. In: *Theologische Realenzyklopädie* \[TRE\] (Walter de Gruyter), Bd. 31.
+* Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch”. In: *TRE*, Bd. 31.
+* Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone”. In: Cai Werntgen (Hg.), *Szenen des Heiligen* (Verlag der Weltreligionen).
+* Dr. Joseph Dan, “Scholem, Gershom Gerhard”. In: *TRE*, Bd. 30.
+* Dr. Joseph Dan, “Sprache / Sprachwissenschaft / Sprachphilosophie – Judentum”. In: *TRE*, vol. 31.
+* Susan A. Davis, “Saguaro – A Radio Play”, in: Hannes Brunner, Susan A. Davis, *Pausenstück und Saguaro* (Vera Engelhorn
+Gallery).
+* Joshua Decter, “The Aesthetics of Obliteration”. In: *Tim White, Presence – Video Installations and Photographs* (Savva Art
 Pess).
-* Brian Hebblethwaite, “Sklaverei VI: Ethische Bewertung.” In: *TRE*, vol. 31.
-* Ann Loades, “Schwangerschaftsabbruch.” In: *TRE*, vol. 30.
-* David Turley, “Sklaverei V: Reformation bis Neuzeit.” In: *TRE*, vol. 31
+* Brian Hebblethwaite, “Sklaverei VI – Ethische Bewertung”. In: *TRE*, Bd. 31.
+* Ann Loades, “Schwangerschaftsabbruch”. In: *TRE*, Bd. 30.
+* David Turley, “Sklaverei V – Reformation bis Neuzeit”. In: *TRE*, Bd. 31.
