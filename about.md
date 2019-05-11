@@ -53,16 +53,16 @@ layout: page/half-image
 
 * “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher.” In: Ursula Mahlendorf,
 Lurence Rickels (eds.), *Poetry Poetics Translations* (Königshausen & Neumann).
-* Michael J. Alexander, “Shakespeare, William (1564–1616).” In: *Theologische Realenzyklopädie* \[TRE\] (Walter de Gruyter),
-vl. 31.
+* Michael J. Alexander, “Shakespeare, William (1564–1616).” In: *Theologische Realenzyklopädie \[TRE\]* (Walter de Gruyter),
+vol. 31.
 * Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch.” In: *TRE*, vol. 31.
-* Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone.” In: Cai Werntgen (Hg.), *Szenen des Heiligen* (Verlag der Weltreligionen).
+* Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone.” In: Cai Werntgen (ed.), *Szenen des Heiligen* (Verlag der Weltreligionen).
 * Dr. Joseph Dan, “Scholem, Gershom Gerhard.” In: *TRE*, vol. 30.
 * Dr. Joseph Dan, “Sprache / Sprachwissenschaft / Sprachphilosophie: Judentum.” In: *TRE*, vol. 31.
 * Susan A. Davis, “Saguaro: A Radio Play,” in: Hannes Brunner, Susan A. Davis, *Pausenstück und Saguaro* (Vera Engelhorn
-Gllery).
+Gallery).
 * Joshua Decter, “The Aesthetics of Obliteration.” In: *Tim White, Presence: Video Installations and Photographs* (Savva Art
 Pess).
 * Brian Hebblethwaite, “Sklaverei VI: Ethische Bewertung.” In: *TRE*, vol. 31.
 * Ann Loades, “Schwangerschaftsabbruch.” In: *TRE*, vol. 30.
-* David Turley, “Sklaverei V: Reformation bis Neuzeit.” In: *TRE*, vol. 31
+* David Turley, “Sklaverei V: Reformation bis Neuzeit.” In: *TRE*, vol. 31.
