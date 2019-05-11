@@ -25,7 +25,7 @@ I will be pleased to provide more details and references upon request.
 ## Rates
 {: .rate-title}
 
-Rates may vary. Prices for translations of books and screenplays/scripts, e.g., are considerably lower, while those for work on highly technical texts and copy that not only requires proofreading but thorough copyediting, are higher. However, the rates stated below are reliable benchmarks.
+Rates may vary. Prices for translations of books and screenplays/scripts, e.g., are considerably lower, while those for work on highly technical texts and copy that not only requires proofreading but thorough copyediting are higher. However, the rates stated below are reliable benchmarks.
 {: .is-size-7}
 
 **Translations / Transcriptions / Line Editing:**<br>EUR 1.35 per standard line (55 characters) of the source text
