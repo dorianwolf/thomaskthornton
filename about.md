@@ -4,7 +4,7 @@ permalink: "/about"
 language: english
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
-image credit: Art by Phil Haddock
+image credit: 
 text beside image:
   title: CAREER STAGES
   paragraph: After majoring in German Literature and History at the University of

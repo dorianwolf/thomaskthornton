@@ -168,7 +168,10 @@ body > main {
 
   a {
     color: white;
-    text-transform: uppercase;
+
+    &:hover {
+      border: none;
+    }
   }
 
   &__contact-info {
