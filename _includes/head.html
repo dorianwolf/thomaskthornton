@@ -4,4 +4,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" class="js-site-favicon" href="/assets/img/favicon.ico">
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <title>{{site.title}} | {{page['meta title'] | default: page.title}}</title>
+  <meta name="description" content="{{page['meta description'] | default: site.description}}">
 </head>

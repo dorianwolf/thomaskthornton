@@ -17,18 +17,16 @@ defaults:
     path: ''
     type: pages
   values:
-    meta title: 
-    meta description: 
-    language: 
-    page ref: 
+    meta title:
+    meta description:
+    language:
+    page ref:
     exclude from sitemap: false
 email: ThomasKThornton@aol.com
 phone:
   english: '0049-157-3812-3118'
   deutsch: 'Mobil: 0049 157 38 12 31 18'
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Ihr verlässlicher Partner für Übersetzungen aus dem Englischen oder ins Englische sowie Lektorate – mit über 20 Jahren Erfahrung in allen Bereichen von Kunst und Kultur sowie nahezu sämtlichen Zweigen von Wirtschaft und Industrie.
 url: https://www.thomaskthornton.com
 logo: "/assets/img/tt-logo.png"
 language directories:
