@@ -56,7 +56,7 @@ p {
 a {
   color: $primary;
   border-bottom: 1px solid $primary;
-  
+
   &:hover {
     color: $secondary;
     border-bottom-color: $secondary;
@@ -86,7 +86,7 @@ blockquote {
 }
 
 ul {
-  list-style: disc inside;
+  list-style: disc outside;
   margin: 1rem 0.5rem;
 }
 
@@ -119,12 +119,12 @@ ul {
 }
 
 .navbar-item {
-  
+
   padding: 1rem;
   font-weight: 700;
   letter-spacing: 0.13rem;
   border-bottom: none;
-  
+
   img {
     max-height: 2.5rem;
   }
@@ -135,7 +135,7 @@ a.navbar-item.active,
 .navbar-link:hover,
 .navbar-link.active,
 .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
-  color: $secondary;          
+  color: $secondary;
 }
 
 .navbar-burger {
@@ -161,7 +161,7 @@ body > main {
 }
 
 .footer {
-  
+
   font-family: $family-secondary;
   font-size: $size-small;
   letter-spacing: 0.05rem;
@@ -177,7 +177,7 @@ body > main {
 }
 
 #languageSelector {
-  
+
   a {
     font-size: $size-xs;
     font-weight: bold;
@@ -185,7 +185,7 @@ body > main {
     margin: 0 0.5rem;
     padding-bottom: 0.3rem;
     border-bottom: 1px solid $grey_light;
-    
+
     &:hover {
       color: $secondary;
       border-bottom-color: $secondary;
