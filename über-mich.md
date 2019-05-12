@@ -4,7 +4,7 @@ permalink: "/de/berufliche-stationen"
 language: deutsch
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
-image credit: Kunst von Phil Haddock
+image credit: 
 text beside image:
   title: Berufliche Stationen
   paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br.
