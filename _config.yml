@@ -17,10 +17,10 @@ defaults:
     path: ''
     type: pages
   values:
-    meta title: 
-    meta description: 
-    language: 
-    page ref: 
+    meta title:
+    meta description:
+    language:
+    page ref:
     exclude from sitemap: false
 email: ThomasKThornton@aol.com
 phone:
@@ -42,7 +42,7 @@ top navigation:
   - title: Contact
   deutsch:
   - title: Startseite
-  - title: Über Mich
+  - title: Über mich
   - title: Sprachdienste
   - title: Kontakt
 markdown: kramdown
