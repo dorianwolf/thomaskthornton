@@ -4,7 +4,7 @@ permalink: "/about"
 language: english
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
-image credit: Thoth, the Egyptian god of writing
+image credit: Thoth, the Egyptian god of writing and culture
 text beside image:
   title: CAREER STAGES
   paragraph: After majoring in German Literature and History at the University of
