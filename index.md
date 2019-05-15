@@ -1,12 +1,12 @@
 ---
 title: Home
 permalink: "/"
-layout: page/full-image
 language: english
 page ref: home
 page title: Hallo! Hi! Ciao! Salut!
 banner image: "/assets/img/home-banner.jpg"
-image credit: Art by Phil Haddock
+image credit: The Towers of Babble by Phil Haddock (detail)
+layout: page/full-image
 ---
 
 I am your reliable partner for translations and adaptations from or into German as well as line- and copyediting plus proofreading work. With over 20 years of experience, I am intimately familiar with all areas of art and culture and cover virtually the entire range of industry sectors.
