@@ -5,7 +5,7 @@ language: english
 page ref: home
 page title: Hallo! Hi! Ciao! Salut!
 banner image: "/assets/img/home-banner.jpg"
-image credit: <em>The Towers of Babble</em> by Phil Haddock (detail)
+image credit: "<em>The Towers of Babble</em> by Phil Haddock (detail)"
 layout: page/full-image
 ---
 
