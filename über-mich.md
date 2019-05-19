@@ -52,7 +52,7 @@ layout: page/half-image
 ### Artikel (Deutsch)
 
 * “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher”. In: Ursula Mahlendorf,
-Lurence Rickels (Hg.), *Poetry Poetics Translations* (Königshausen & Neumann).
+Laurence Rickels (Hg.), *Poetry Poetics Translations* (Königshausen & Neumann).
 * Michael J. Alexander, “Shakespeare, William (1564–1616)”. In: *Theologische Realenzyklopädie* \[TRE\] (Walter de Gruyter), Bd. 31.
 * Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch”. In: *TRE*, Bd. 31.
 * Hans Belting, “Gesicht oder Abdruck? Offene Fragen zur Vorgeschichte der Christusikone”. In: Cai Werntgen (Hg.), *Szenen des Heiligen* (Verlag der Weltreligionen).
