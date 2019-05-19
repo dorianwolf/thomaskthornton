@@ -52,7 +52,7 @@ layout: page/half-image
 ### Articles (German)
 
 * “Hälfte des Lebens (aus dem Zusammenhang gerissen): Nahtstelle zum Übersetzen als Metapher.” In: Ursula Mahlendorf,
-Lurence Rickels (eds.), *Poetry Poetics Translations* (Königshausen & Neumann).
+Laurence Rickels (eds.), *Poetry Poetics Translations* (Königshausen & Neumann).
 * Michael J. Alexander, “Shakespeare, William (1564–1616).” In: *Theologische Realenzyklopädie \[TRE\]* (Walter de Gruyter),
 vol. 31.
 * Michael Banner, “Sexualität: Kirchengeschichtlich und ethisch.” In: *TRE*, vol. 31.
