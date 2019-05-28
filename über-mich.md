@@ -4,7 +4,7 @@ permalink: "/de/berufliche-stationen"
 language: deutsch
 page ref: about
 banner image: "/assets/img/about-banner.jpg"
-image credit: Thoth, der ägyptische Gott der Schrift und Kultur
+image credit: Thoth, der ägyptische Gott der Sprache, Schrift und Kultur
 text beside image:
   title: Berufliche Stationen
   paragraph: Nach meinem Studium der Germanistik und Geschichte in Freiburg i. Br.
