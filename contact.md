@@ -1,11 +1,10 @@
 ---
 title: Contact
 permalink: "/contact"
-layout: page/contact
 language: english
 page ref: contact
 banner image: "/assets/img/contact-banner.jpg"
-image credit: Photo by Garth Pratt
+image credit: Photo by Garth Pratt (www.shutterstock.com)
 contact form:
   name: Name *
   first name: First Name
@@ -13,5 +12,6 @@ contact form:
   email: Email *
   message: Message
   submit: Submit
+layout: page/contact
 ---
 
