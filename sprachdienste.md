@@ -7,7 +7,7 @@ banner images:
 - image: "/assets/img/janko-ferlic.jpg"
   image credit: Bild von Janko Ferlic
 - image: "/assets/img/reza-rostampisheh.jpg"
-  image credit: Bild von Reza Rostampisheh
+  image credit: Bild von Reza Rostampisheh (www.shutterstock.com)
 - image: "/assets/img/kevin-laminto.jpg"
   image credit: Bild von Kevin Laminto
 layout: page/three-image
