@@ -46,7 +46,7 @@ layout: page/half-image
 
 ### Bücher (Deutsch)
 
-* Earl Derr Biggers. *Sieben Schlüssel fürs Baldpate Inn* (Thoth Publications Berlin).
+* Earl Derr Biggers. *Sieben Schlüssel zum Baldpate Inn* (Thoth Publications Berlin).
 * Barbara Bloom (Hg.), *Ghostwriter/Und wenn sie nicht gestorben sind...* (DAAD).
 
 ### Artikel (Deutsch)
