@@ -28,8 +28,7 @@ Nähere Einzelheiten und Referenzen liefere ich gern auf Anfrage.
 Preise können variieren. Buch- sowie Drehbuchübersetzungen etwa kommen deutlich billiger, während die Arbeit an stark technischen Texten bzw. Texten, die nicht nur ein Korrektorat, sondern ein gründliches Lektorat benötigen, teurer ist. Die genannten Preise sind aber verlässliche Richtwerte.
 {: .is-size-7}
 
-**Übersetzungen / Transkriptionen / Redaktion / Werbetexte:**<br>EUR 1,35 pro Normzeile (55 Anschläge) der Vorlage
-EUR 48,- pro Stunde
+**Übersetzungen / Transkriptionen / Redaktion / Werbetexte:**<br>EUR 1,35 pro Normzeile (55 Anschläge) der Vorlage**<br>EUR 48,- pro Stunde<br>
 Mindestbetrag EUR 38,-
 
 **Lektorat bzw. Korrektorat:**<br>EUR 43,- pro Stunde<br>Mindestbetrag EUR 30,-
